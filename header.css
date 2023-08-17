@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.products ul{
+    visibility: hidden;
+}
+.products:hover ul{
+    visibility: visible;
+}
+.search{
+    background-color: blue;
+}
